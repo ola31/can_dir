@@ -1,0 +1,7 @@
+<launch>
+  
+  <node name="mdcan_node" pkg="mdcan_dir" type="mdcan_dir_node" output="screen">
+  </node>
+
+
+</launch>
